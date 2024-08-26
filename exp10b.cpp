@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//call by value
+//call by reference
 int a,b;
 int *pa, *pb;
 void swapr (int *pa, int *pb)
